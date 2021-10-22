@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masbayuw
 - 👀 I’m interested in data engineering, data analyst, data science
 - 🌱 I’m currently learning python and airflow
-- 💞️ I’m looking to collaborate on yummycprp
+- 💞️ I’m looking to collaborate on yummycorp
 - 📫 How to reach me, send email to : bwiratmo91@gmail.com
 
 <!---
